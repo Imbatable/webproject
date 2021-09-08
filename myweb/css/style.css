@@ -1,0 +1,72 @@
+div#content div{
+				display: inline-block;
+				width: 49%;
+}
+
+
+
+div#content div.leftbox{
+				background: #a2a2a2;
+				vertical-align: top;
+}
+
+div#content div.rightbox{
+				background: #a2a2a2;
+				vertical-align: top;
+}
+
+div#content div h2, p{
+				margin: 35px;
+}
+
+
+nav.menu ul li.btn{
+				list-style-type: none;
+				display: inline-block;
+}
+
+
+nav.menu ul li.btn a{
+				color: white;
+				text-decoration: none;
+				background: red;
+				padding: 10px;
+}
+
+nav.menu ul li.btn:hover a{
+				color: red;
+				background: white;
+				transition: 0.3s all;
+}
+
+
+footer{
+				background: #b6b6b6;
+				color: white;
+}
+
+
+
+
+/*p.welcome{
+				color: red;
+				font-weight: bold;
+}
+
+p.w2{
+				color: #158cff;
+}
+
+a{
+				color: white;
+}
+
+body{
+				background: #ffffff;
+				background-size: 100%;
+}
+h1{
+				font-size: 50px;
+				font-weight: blod;
+				padding-left: cente;
+}*/
